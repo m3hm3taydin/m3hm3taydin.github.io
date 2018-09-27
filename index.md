@@ -1,6 +1,8 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
+title: "Mehmet Aydın - Kişisel Blog"
 ---
+
+{% for post in paginator.posts %}
+  <a href="{{ root_url }}{{ post.url }}"><h3 class="entry-title">{{ post.title }}</h3></a>
+{% endfor %}
