@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Tesseract ile basit OCR işlemi"
-date:   2018-09-27 10:03:44 +0300
+date:   2019-02-05 16:00:00 +0300
 author: Mehmet Aydın
 comments: true
 categories: Genel
