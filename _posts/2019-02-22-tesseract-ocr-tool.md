@@ -11,7 +11,7 @@ Merhabalar,
 
 Bir önceki [yazımda](https://m3hm3taydin.github.io/genel/2019/02/05/tesseract-ocr.html), kısaca [Tesseract](https://github.com/tesseract-ocr/) kütüphanesini kullarak nasıl basit bir [OCR](https://en.wikipedia.org/wiki/Optical_character_recognition) işlemi yapabileceğimizden bahsetmiştim. Hatta yazımın sonlarında bunun için basit bir uygulama hazırlayıp internete koymaktan söz etmiştim.
 
-Akşamları ve haftasonunda vakit buldukça ufak ufak bunu uygulamayı hazırladım. Elbette geliştirilecek çok noktası ve eklenecek çok özellik var. Zaman buldukça zaten geliştirme yapıp güncellerim uygulamayı :)
+Akşamları ve haftasonunda vakit buldukça ufak ufak bu uygulamayı hazırladım. Elbette geliştirilecek çok noktası ve eklenecek çok özellik var. Zaman buldukça zaten geliştirme yapıp güncellerim uygulamayı :)
 
 Uygulamayı [Django](https://www.djangoproject.com) kullanarak python ile hazırladım.
 
